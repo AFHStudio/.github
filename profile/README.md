@@ -11,4 +11,5 @@
     Fahaddex
   </a>
 </h1>
-<h1>Why is our software open-source?<h1><h2>We work on getting software done and helping people, not making money.</h2>
+<h1>Why is our software open-source?<h1>
+<h2>We work on getting software done and helping people, not making money.</h2>
